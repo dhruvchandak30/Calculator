@@ -1,4 +1,5 @@
 # Calculator
-My First Javascript Project...
-With Backspace feature
-https://calculator-dhruv.netlify.app/
+url : https://calculator-dhruv.netlify.app/
+
+Made a responsive web Page for a Calculator With Backspace feature.
+
